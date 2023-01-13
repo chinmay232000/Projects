@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",23.3,India
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",17.7,India
+ Total fertility rate (children per woman),"
+22.*
+23",2.0,India
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",6.8,India
+ Infant mortality rate (IMR),"
+26.*
+27",35.2,India
+ Under five mortality rate (U5MR),"
+27.*
+",41.9,India
+ Any modern method (%),"
+29.*
+30",56.5,India
+ Female sterilization (%),"
+30.*
+31",37.9,India
+ Male sterilization (%),"
+31.*
+32",0.3,India
+ Total unmet need (%),"
+36.*
+37",9.4,India
+ Unmet need for spacing (%),"
+37.*
+",4.0,India
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",58.1,India
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",2916.0,India
+ Institutional births (%),"
+50.*
+51",88.6,India
+ Births delivered by caesarean section (%),"
+51.*
+52",61.9,India
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",76.4,India
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",94.5,India
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",63.7,India
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",35.5,India
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",19.3,India
+ Children under 3 years who are underweight (%),"
+84.*
+85",32.1,India
+ Women who are overweight or obese (%),"
+88.*
+89",24.0,India
+ Men who are overweight or obese (%),"
+89.*
+90",22.9,India
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",52.2,India
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",88.7,India
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",25.4,India
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",43.3,India
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",78.6,India
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",54.0,India
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",77.3,India
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",29.3,India
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",1.5,India
+ Women who use any kind of tobacco (%),"
+128.*
+129",8.9,India
+ Men who use any kind of tobacco (%),"
+129.*
+130",38.0,India
+ Women who consume alcohol (%),"
+130.*
+131",1.3,India
+ Men who consume alcohol (%),"
+131.*
+24",18.8,India

@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",9.7,Chandigarh
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",,Chandigarh
+ Total fertility rate (children per woman),"
+22.*
+23",1.4,Chandigarh
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",0.8,Chandigarh
+ Infant mortality rate (IMR),"
+26.*
+27",,Chandigarh
+ Under five mortality rate (U5MR),"
+27.*
+",,Chandigarh
+ Any modern method (%),"
+29.*
+30",55.6,Chandigarh
+ Female sterilization (%),"
+30.*
+31",19.0,Chandigarh
+ Male sterilization (%),"
+31.*
+32",0.3,Chandigarh
+ Total unmet need (%),"
+36.*
+37",6.9,Chandigarh
+ Unmet need for spacing (%),"
+37.*
+",2.5,Chandigarh
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",78.7,Chandigarh
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",5546.0,Chandigarh
+ Institutional births (%),"
+50.*
+51",96.9,Chandigarh
+ Births delivered by caesarean section (%),"
+51.*
+52",83.2,Chandigarh
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",80.9,Chandigarh
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",92.9,Chandigarh
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",,Chandigarh
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",25.3,Chandigarh
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",8.4,Chandigarh
+ Children under 3 years who are underweight (%),"
+84.*
+85",20.6,Chandigarh
+ Women who are overweight or obese (%),"
+88.*
+89",44.0,Chandigarh
+ Men who are overweight or obese (%),"
+89.*
+90",34.4,Chandigarh
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",,Chandigarh
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",94.6,Chandigarh
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",22.0,Chandigarh
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",30.4,Chandigarh
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",87.1,Chandigarh
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",70.0,Chandigarh
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",93.4,Chandigarh
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",9.7,Chandigarh
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",,Chandigarh
+ Women who use any kind of tobacco (%),"
+128.*
+129",0.6,Chandigarh
+ Men who use any kind of tobacco (%),"
+129.*
+130",12.1,Chandigarh
+ Women who consume alcohol (%),"
+130.*
+131",0.3,Chandigarh
+ Men who consume alcohol (%),"
+131.*
+24",18.6,Chandigarh

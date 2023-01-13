@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",23.1,Madhya Pradesh
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",30.1,Madhya Pradesh
+ Total fertility rate (children per woman),"
+22.*
+23",2.0,Madhya Pradesh
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",5.1,Madhya Pradesh
+ Infant mortality rate (IMR),"
+26.*
+27",41.3,Madhya Pradesh
+ Under five mortality rate (U5MR),"
+27.*
+",49.2,Madhya Pradesh
+ Any modern method (%),"
+29.*
+30",65.5,Madhya Pradesh
+ Female sterilization (%),"
+30.*
+31",51.9,Madhya Pradesh
+ Male sterilization (%),"
+31.*
+32",0.7,Madhya Pradesh
+ Total unmet need (%),"
+36.*
+37",7.7,Madhya Pradesh
+ Unmet need for spacing (%),"
+37.*
+",3.9,Madhya Pradesh
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",57.5,Madhya Pradesh
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",1619.0,Madhya Pradesh
+ Institutional births (%),"
+50.*
+51",90.7,Madhya Pradesh
+ Births delivered by caesarean section (%),"
+51.*
+52",80.2,Madhya Pradesh
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",77.1,Madhya Pradesh
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",98.4,Madhya Pradesh
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",74.0,Madhya Pradesh
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",35.7,Madhya Pradesh
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",19.0,Madhya Pradesh
+ Children under 3 years who are underweight (%),"
+84.*
+85",33.0,Madhya Pradesh
+ Women who are overweight or obese (%),"
+88.*
+89",16.6,Madhya Pradesh
+ Men who are overweight or obese (%),"
+89.*
+90",15.6,Madhya Pradesh
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",52.9,Madhya Pradesh
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",86.0,Madhya Pradesh
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",26.8,Madhya Pradesh
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",39.9,Madhya Pradesh
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",74.7,Madhya Pradesh
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",38.5,Madhya Pradesh
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",60.5,Madhya Pradesh
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",28.1,Madhya Pradesh
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",1.0,Madhya Pradesh
+ Women who use any kind of tobacco (%),"
+128.*
+129",10.2,Madhya Pradesh
+ Men who use any kind of tobacco (%),"
+129.*
+130",46.5,Madhya Pradesh
+ Women who consume alcohol (%),"
+130.*
+131",1.0,Madhya Pradesh
+ Men who consume alcohol (%),"
+131.*
+24",17.1,Madhya Pradesh

@@ -10,30 +10,81 @@ def Survey(name):
 	Base = "G:\\My Drive\\Projects\\Projects\\Data\\temp\\ID.csv"
 	m = pd.read_csv(Base,header = 0, encoding = 'unicode escape')
 	path ="G:\\My Drive\\Projects\\Projects\\Data\\temp\\"+ name
-	df = pd.DataFrame(m[['INDICATORS',name]])
+	
 	for filename in os.listdir(path):
 		list1 = []
+		list3 = []
+		df = pd.DataFrame(m[['INDICATORS',name]])
 		file ="G:\\My Drive\\Projects\\Projects\\Data\\temp\\"+ name + "\\"+ filename
 		reader = PdfReader(file)
-		if name = 'NHS3':
-			df1 = tabula.read_pdf(file, pages = "all")
-			for item in df1:
-				for info in item.values:
-					list1.append(info)
-			df1 = pd.DataFrame(list1)
-			df1.drop([2,3,4,5,6,7,9],axis = 1,inplace = True)
-			df1.columns = ['IND','NHS3','NHS2','NHS1']
-			df1.reset_index(drop = True)
-			df3 = pd.merge(df, df1, left_on='IND', right_on='NHS3')
-			df = df3.drop(['IND','NHS3_y'],axis = 1)
-			df.columns = ['NHS3','NHS2','NHS1','INDICATORS']
+		if name == 'NHS3':
+				
+			n=reader.pages[0].extract_text()
+			print(len(df[name]))
+			for i in range(len(df[name])):
+				b = df[name][i]
+				
+				if pd.isnull(b):
+					c,d,e = np.nan, np.nan, np.nan
+					templist = [c,d,e]
+					list1.append(templist)
+					continue 
+				if filename == 'Bihar.pdf' and (b == "9. T, 9a. F") :
+					b = "9a. F,9b. F"
+				elif filename == 'Bihar.pdf' and (b == "9a. F, 9b. F"):
+					b = "9b. F,Maternity care (for births in the last 3 years)"
+				Start = n.find(b.split(',')[0])
+				End = n.find(b.split(',')[1])		
+				print(n)
+				var = n[Start:End]
+				print(b.split(',')[0])
+				if End == 4601 or End == 4910:
+					 var = var + 'na'	
+				z = var.split()
+				b = df[name][i]
+				c,d,e = z[-1],z[-2],z[-9]
+				list3 = [b]
+				list2 = [c,d,e]
+				
+				for j in list2:
+					
+					if j.isnumeric():
+						j = float(j)
+						
+					else:
+						j = re.findall("\d+\.\d+",j)
+						print(j)	
+						if not j:
+							j = np.nan
+						else:
+							j = float(j[0])
+					
+					list3.append(j)
+					
+				list1.append(list3)
+				
+			df2 = pd.DataFrame(list1)
+			print(list3)
+			print(df) 
+			print(df2)
+			df2.columns = ['IND','NHS1','NHS2','NHS3_x']
+			df3 = pd.concat([df, df2], axis=1, join='inner')
+			print(df3)
+			df3.drop(['NHS3','IND'],axis = 1,inplace = True)
+			print(df3)
+			df = df3.reset_index(drop = True)
+			print(df)
+			
 			file_name = os.path.basename(file)
 			Name = os.path.splitext(file_name)[0]
-			df3 = pd.DataFrame([os.path.splitext(file_name)[0]])
+			df3= pd.DataFrame([os.path.splitext(file_name)[0]])
 			df3.columns = ['State']
-			m, n = len(df), len(df3)
-			df['States'] = np.tile(df3['State'], int(np.ceil(m / n)))[:m]
+			n,o= len(df), len(df3)
+			df['States'] = np.tile(df3['State'], int(np.ceil(n / o)))[:n]
 			df = pd.DataFrame(df)
+			print(df)
+			df.columns = ['INDICATORS','NHS1','NHS2','NHS3','States']
+
 			df.to_csv(("G:\\My Drive\\Projects\\Projects\\Data\\Modified data\\"+name+"\\"+ Name + ".csv"), index = False)
 			
 			
@@ -96,14 +147,16 @@ def Survey(name):
 			df2.columns = ['Total']
 			file_name = os.path.basename(file)
 			Name = os.path.splitext(file_name)[0]
-			df3 = pd.DataFrame([os.path.splitext(file_name)[0]])
+			Name = np.array([Name])
+			df3 = pd.DataFrame(Name)
 			df3.columns = ['State']
 			m, n, o  =   len(df), len(df2), len(df3)
 			df['Total'] = np.tile(df2['Total'], int(np.ceil(m / n)))[:m]
 			df['States'] = np.tile(df3['State'], int(np.ceil(m / o)))[:m]
 			df = pd.DataFrame(df)
 			df.drop(name,axis = 1)
+			
 			print(df)
 			df.to_csv(("G:\\My Drive\\Projects\\Projects\\Data\\Modified data\\"+name+"\\"+ Name + ".csv"), index = False)
 
-Survey('NHS5')
+Survey('NHS3')

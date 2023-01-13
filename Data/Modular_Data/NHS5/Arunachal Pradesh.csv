@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",18.9,Arunachal Pradesh
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",20.8,Arunachal Pradesh
+ Total fertility rate (children per woman),"
+22.*
+23",1.8,Arunachal Pradesh
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",6.0,Arunachal Pradesh
+ Infant mortality rate (IMR),"
+26.*
+27",12.9,Arunachal Pradesh
+ Under five mortality rate (U5MR),"
+27.*
+",18.8,Arunachal Pradesh
+ Any modern method (%),"
+29.*
+30",47.2,Arunachal Pradesh
+ Female sterilization (%),"
+30.*
+31",18.2,Arunachal Pradesh
+ Male sterilization (%),"
+31.*
+32",0.0,Arunachal Pradesh
+ Total unmet need (%),"
+36.*
+37",12.5,Arunachal Pradesh
+ Unmet need for spacing (%),"
+37.*
+",7.0,Arunachal Pradesh
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",36.5,Arunachal Pradesh
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",9731.0,Arunachal Pradesh
+ Institutional births (%),"
+50.*
+51",79.2,Arunachal Pradesh
+ Births delivered by caesarean section (%),"
+51.*
+52",74.8,Arunachal Pradesh
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",64.9,Arunachal Pradesh
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",97.6,Arunachal Pradesh
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",63.4,Arunachal Pradesh
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",28.0,Arunachal Pradesh
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",13.1,Arunachal Pradesh
+ Children under 3 years who are underweight (%),"
+84.*
+85",15.4,Arunachal Pradesh
+ Women who are overweight or obese (%),"
+88.*
+89",23.9,Arunachal Pradesh
+ Men who are overweight or obese (%),"
+89.*
+90",27.6,Arunachal Pradesh
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",27.9,Arunachal Pradesh
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",87.0,Arunachal Pradesh
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",23.5,Arunachal Pradesh
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",70.2,Arunachal Pradesh
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",78.2,Arunachal Pradesh
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",76.4,Arunachal Pradesh
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",91.8,Arunachal Pradesh
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",24.8,Arunachal Pradesh
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",0.7,Arunachal Pradesh
+ Women who use any kind of tobacco (%),"
+128.*
+129",18.8,Arunachal Pradesh
+ Men who use any kind of tobacco (%),"
+129.*
+130",50.3,Arunachal Pradesh
+ Women who consume alcohol (%),"
+130.*
+131",24.2,Arunachal Pradesh
+ Men who consume alcohol (%),"
+131.*
+24",52.7,Arunachal Pradesh

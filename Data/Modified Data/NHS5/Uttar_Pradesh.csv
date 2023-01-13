@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",15.8,Uttar_Pradesh
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",23.0,Uttar_Pradesh
+ Total fertility rate (children per woman),"
+22.*
+23",2.4,Uttar_Pradesh
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",2.9,Uttar_Pradesh
+ Infant mortality rate (IMR),"
+26.*
+27",50.4,Uttar_Pradesh
+ Under five mortality rate (U5MR),"
+27.*
+",59.8,Uttar_Pradesh
+ Any modern method (%),"
+29.*
+30",44.5,Uttar_Pradesh
+ Female sterilization (%),"
+30.*
+31",16.9,Uttar_Pradesh
+ Male sterilization (%),"
+31.*
+32",0.1,Uttar_Pradesh
+ Total unmet need (%),"
+36.*
+37",12.9,Uttar_Pradesh
+ Unmet need for spacing (%),"
+37.*
+",4.8,Uttar_Pradesh
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",42.4,Uttar_Pradesh
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",2300.0,Uttar_Pradesh
+ Institutional births (%),"
+50.*
+51",83.4,Uttar_Pradesh
+ Births delivered by caesarean section (%),"
+51.*
+52",57.7,Uttar_Pradesh
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",69.6,Uttar_Pradesh
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",94.4,Uttar_Pradesh
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",59.7,Uttar_Pradesh
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",39.7,Uttar_Pradesh
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",17.3,Uttar_Pradesh
+ Children under 3 years who are underweight (%),"
+84.*
+85",32.1,Uttar_Pradesh
+ Women who are overweight or obese (%),"
+88.*
+89",21.3,Uttar_Pradesh
+ Men who are overweight or obese (%),"
+89.*
+90",18.5,Uttar_Pradesh
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",45.9,Uttar_Pradesh
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",87.6,Uttar_Pradesh
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",15.5,Uttar_Pradesh
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",51.9,Uttar_Pradesh
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",75.4,Uttar_Pradesh
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",46.5,Uttar_Pradesh
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",72.6,Uttar_Pradesh
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",34.8,Uttar_Pradesh
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",0.7,Uttar_Pradesh
+ Women who use any kind of tobacco (%),"
+128.*
+129",8.4,Uttar_Pradesh
+ Men who use any kind of tobacco (%),"
+129.*
+130",44.1,Uttar_Pradesh
+ Women who consume alcohol (%),"
+130.*
+131",0.3,Uttar_Pradesh
+ Men who consume alcohol (%),"
+131.*
+24",14.6,Uttar_Pradesh

@@ -1,0 +1,112 @@
+INDICATORS,NHS5,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+20.*
+21",8.7,Punjab
+ Men age 25-29 years married before age 21 years (%),"
+21.*
+22",11.4,Punjab
+ Total fertility rate (children per woman),"
+22.*
+23",1.6,Punjab
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+23.*
+24",3.1,Punjab
+ Infant mortality rate (IMR),"
+26.*
+27",28.0,Punjab
+ Under five mortality rate (U5MR),"
+27.*
+",32.7,Punjab
+ Any modern method (%),"
+29.*
+30",50.5,Punjab
+ Female sterilization (%),"
+30.*
+31",22.8,Punjab
+ Male sterilization (%),"
+31.*
+32",0.5,Punjab
+ Total unmet need (%),"
+36.*
+37",9.9,Punjab
+ Unmet need for spacing (%),"
+37.*
+",3.7,Punjab
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+41.*
+42",59.3,Punjab
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+47.*
+48",3745.0,Punjab
+ Institutional births (%),"
+50.*
+51",94.3,Punjab
+ Births delivered by caesarean section (%),"
+51.*
+52",53.9,Punjab
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","
+57.*
+.*
+58",76.2,Punjab
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+67.*
+.*
+68",90.6,Punjab
+ Children under age 6 months exclusively breastfed (%),"
+76.*
+77",55.5,Punjab
+ Children under 5 years who are stunted (heightforage),"
+81.*
+82",24.5,Punjab
+ Children under 5 years who are wasted (weightforheight),"
+82.*
+83",10.6,Punjab
+ Children under 3 years who are underweight (%),"
+84.*
+85",16.9,Punjab
+ Women who are overweight or obese (%),"
+88.*
+89",40.8,Punjab
+ Men who are overweight or obese (%),"
+89.*
+90",32.2,Punjab
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+94.*
+95",51.7,Punjab
+ Currently married women who usually participate in three household decisions (%),"
+119.*
+120",91.4,Punjab
+ Women who worked in the last 12 months and were paid in cash (%),"
+120.*
+121",22.3,Punjab
+ Women owning a house and/or land (alone or jointly with others) (%),"
+121.*
+122",63.5,Punjab
+ Women having a bank or savings account that they themselves use (%),"
+122.*
+123",81.6,Punjab
+ Women having a mobile phone that they themselves use (%),"
+123.*
+124",61.2,Punjab
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+124.*
+.*
+",93.2,Punjab
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+125.*
+126",11.6,Punjab
+ Young women age 18-29 years who experienced sexual violence by age 18,"
+127.*
+",0.1,Punjab
+ Women who use any kind of tobacco (%),"
+128.*
+129",0.4,Punjab
+ Men who use any kind of tobacco (%),"
+129.*
+130",12.9,Punjab
+ Women who consume alcohol (%),"
+130.*
+131",0.3,Punjab
+ Men who consume alcohol (%),"
+131.*
+24",22.8,Punjab

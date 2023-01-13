@@ -1,0 +1,109 @@
+INDICATORS,NHS4,Total,States
+ Women age 20-24 years married before age 18 years (%),"
+15.*
+16",21.1,UP_FactSheet
+ Men age 25-29 years married before age 21 years (%),"
+16.*
+17",28.7,UP_FactSheet
+ Total fertility rate (children per woman),"
+17.*
+18",2.7,UP_FactSheet
+ Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),"
+18.*
+.*
+",3.8,UP_FactSheet
+ Infant mortality rate (IMR),"
+19.*
+20",64.0,UP_FactSheet
+ Under five mortality rate (U5MR),"
+20.*
+",78.0,UP_FactSheet
+ Any modern method (%),"
+22.*
+23",31.7,UP_FactSheet
+ Female sterilization (%),"
+23.*
+24",17.3,UP_FactSheet
+ Male sterilization (%),"
+24.*
+25",0.1,UP_FactSheet
+ Total unmet need (%),"
+28.*
+29",18.1,UP_FactSheet
+ Unmet need for spacing (%),"
+29.*
+",6.8,UP_FactSheet
+ Mothers who had at least 3 antenatal care visits for their last birth (%),"
+33.*
+34",26.4,UP_FactSheet
+ Average outofpocket expenditure per delivery in a public health facility (Rs.),"
+40.*
+41",1956.0,UP_FactSheet
+ Institutional births (%),"43.*
+44",67.8,UP_FactSheet
+ Births delivered by caesarean section (%),"
+47.*
+48",9.4,UP_FactSheet
+"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)","50.*
+.*
+51",51.1,UP_FactSheet
+ 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,"
+57.*
+.*
+58",84.5,UP_FactSheet
+ Children under age 6 months exclusively breastfed (%),"
+66.*
+67",41.6,UP_FactSheet
+ Children under 5 years who are stunted (heightforage),"
+71.*
+72",46.3,UP_FactSheet
+ Children under 5 years who are wasted (weightforheight),"
+72.*
+73",17.9,UP_FactSheet
+ Children under 3 years who are underweight (%),"
+74.*
+",39.5,UP_FactSheet
+ Women who are overweight or obese (%),"
+77.*
+78",16.5,UP_FactSheet
+ Men who are overweight or obese (%),"
+78.*
+",12.5,UP_FactSheet
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),"
+81.*
+82",51.0,UP_FactSheet
+ Currently married women who usually participate in three household decisions (%),"
+101.*
+102",81.7,UP_FactSheet
+ Women who worked in the last 12 months and were paid in cash (%),"
+102.*
+103",16.6,UP_FactSheet
+ Women owning a house and/or land (alone or jointly with others) (%),"
+105.*
+106",34.2,UP_FactSheet
+ Women having a bank or savings account that they themselves use (%),"
+106.*
+107",54.6,UP_FactSheet
+ Women having a mobile phone that they themselves use (%),"
+107.*
+108",37.1,UP_FactSheet
+ Women age 15-24 years who use hygienic methods of protection during their menstrual period,"
+108.*
+.*
+",47.1,UP_FactSheet
+ Evermarried women age 18-49 years who have ever experienced spousal violence,"
+103.*
+104",36.7,UP_FactSheet
+ Young women age 18-29 years who experienced sexual violence by age 18,,,UP_FactSheet
+ Women who use any kind of tobacco (%),"
+109.*
+110",7.6,UP_FactSheet
+ Men who use any kind of tobacco (%),"
+110.*
+111",53.0,UP_FactSheet
+ Women who consume alcohol (%),"
+111.*
+112",0.2,UP_FactSheet
+ Men who consume alcohol (%),"
+112.*
+113",22.1,UP_FactSheet
