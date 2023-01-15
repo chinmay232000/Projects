@@ -1,0 +1,37 @@
+,INDICATORS,NHS1,NHS2,NHS3,NHS4,NHS5,States
+0, Women age 20-24 years married before age 18 years (%),51.2,46.3,41.8,21.4,21.3,Karnataka
+1, Men age 25-29 years married before age 21 years (%),,,14.9,9.1,6.1,Karnataka
+2, Total fertility rate (children per woman),2.9,2.1,2.1,1.8,1.7,Karnataka
+3, Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),,,17.0,7.8,5.4,Karnataka
+4, Infant mortality rate (IMR),,,,27.0,25.4,Karnataka
+5, Under five mortality rate (U5MR),,,,31.0,29.5,Karnataka
+6, Any modern method (%),47.6,56.5,62.5,51.3,68.2,Karnataka
+7, Female sterilization (%),41.2,51.5,57.4,48.6,57.4,Karnataka
+8, Male sterilization (%),1.5,0.7,0.2,0.1,0.0,Karnataka
+9, Total unmet need (%),18.2,11.5,9.6,10.4,6.5,Karnataka
+10, Unmet need for spacing (%),11.8,8.3,6.0,6.0,3.8,Karnataka
+11, Mothers who had at least 3 antenatal care visits for their last birth (%),73.5,72.4,79.3,70.1,70.9,Karnataka
+12, Average outofpocket expenditure per delivery in a public health facility (Rs.),,,,4824.0,4954.0,Karnataka
+13, Institutional births (%),38.4,51.1,267.0,94.0,97.0,Karnataka
+14, Births delivered by caesarean section (%),,,,23.6,64.8,Karnataka
+15,"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",52.2,60.0,55.0,62.6,84.1,Karnataka
+16, 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,,,,88.2,91.7,Karnataka
+17, Children under age 6 months exclusively breastfed (%),,,58.0,54.2,61.0,Karnataka
+18, Children under 5 years who are stunted (heightforage),47.6,41.9,42.4,36.2,35.4,Karnataka
+19, Children under 5 years who are wasted (weightforheight),24.2,25.1,18.9,26.1,19.5,Karnataka
+20, Children under 3 years who are underweight (%),46.4,38.6,33.3,35.2,32.9,Karnataka
+21, Women who are overweight or obese (%),,13.6,18.1,23.3,30.1,Karnataka
+22, Men who are overweight or obese (%),,,,22.1,30.9,Karnataka
+23, Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),,,,45.4,45.7,Karnataka
+24, Currently married women who usually participate in three household decisions (%),,,35.2,80.4,82.7,Karnataka
+25, Women who worked in the last 12 months and were paid in cash (%),,,,29.1,37.0,Karnataka
+26, Women owning a house and/or land (alone or jointly with others) (%),,,,51.8,67.6,Karnataka
+27, Women having a bank or savings account that they themselves use (%),,,,59.4,88.7,Karnataka
+28, Women having a mobile phone that they themselves use (%),,,,47.1,61.8,Karnataka
+29, Women age 15-24 years who use hygienic methods of protection during their menstrual period,,,,70.3,84.2,Karnataka
+30, Evermarried women age 18-49 years who have ever experienced spousal violence,,,,20.5,44.4,Karnataka
+31, Young women age 18-29 years who experienced sexual violence by age 18,,,,,11.0,Karnataka
+32, Women who use any kind of tobacco (%),,,,4.2,8.5,Karnataka
+33, Men who use any kind of tobacco (%),,,,34.3,27.1,Karnataka
+34, Women who consume alcohol (%),,,,1.0,0.9,Karnataka
+35, Men who consume alcohol (%),,,,29.3,16.5,Karnataka

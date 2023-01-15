@@ -1,0 +1,37 @@
+,INDICATORS,NHS1,NHS2,NHS3,NHS4,NHS5,States
+0, Women age 20-24 years married before age 18 years (%),,71.9,69.0,42.5,40.8,Bihar
+1, Men age 25-29 years married before age 21 years (%),,,43.0,35.3,30.5,Bihar
+2, Total fertility rate (children per woman),,3.7,4.0,3.4,3.0,Bihar
+3, Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),,,25.0,12.2,11.0,Bihar
+4, Infant mortality rate (IMR),,,,48.0,46.8,Bihar
+5, Under five mortality rate (U5MR),,,,58.0,56.4,Bihar
+6, Any modern method (%),,21.6,28.9,23.3,44.4,Bihar
+7, Female sterilization (%),,18.5,23.8,20.7,34.8,Bihar
+8, Male sterilization (%),,1.0,0.6,0.0,0.1,Bihar
+9, Total unmet need (%),,25.7,22.8,21.2,13.6,Bihar
+10, Unmet need for spacing (%),,12.5,12.1,9.4,6.1,Bihar
+11, Mothers who had at least 3 antenatal care visits for their last birth (%),,15.9,16.9,14.4,25.2,Bihar
+12, Average outofpocket expenditure per delivery in a public health facility (Rs.),,,,1784.0,2848.0,Bihar
+13, Institutional births (%),,14.8,222.0,63.8,76.2,Bihar
+14, Births delivered by caesarean section (%),,,,6.2,56.9,Bihar
+15,"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",,11.6,32.8,61.7,71.0,Bihar
+16, 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,,,,95.5,96.6,Bihar
+17, Children under age 6 months exclusively breastfed (%),,,27.9,53.4,58.9,Bihar
+18, Children under 5 years who are stunted (heightforage),,58.4,50.1,48.3,42.9,Bihar
+19, Children under 5 years who are wasted (weightforheight),,25.4,32.6,20.8,22.9,Bihar
+20, Children under 3 years who are underweight (%),,52.2,54.9,43.9,41.0,Bihar
+21, Women who are overweight or obese (%),,3.9,5.3,11.7,15.9,Bihar
+22, Men who are overweight or obese (%),,20.1,,12.6,14.7,Bihar
+23, Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),46.4,68.9,,58.3,63.1,Bihar
+24, Currently married women who usually participate in three household decisions (%),,,32.7,75.2,86.5,Bihar
+25, Women who worked in the last 12 months and were paid in cash (%),,,,12.5,12.6,Bihar
+26, Women owning a house and/or land (alone or jointly with others) (%),,,,58.8,55.3,Bihar
+27, Women having a bank or savings account that they themselves use (%),,,,26.4,76.7,Bihar
+28, Women having a mobile phone that they themselves use (%),,,,40.9,51.4,Bihar
+29, Women age 15-24 years who use hygienic methods of protection during their menstrual period,,,,31.0,58.8,Bihar
+30, Evermarried women age 18-49 years who have ever experienced spousal violence,,,59.0,43.2,40.0,Bihar
+31, Young women age 18-29 years who experienced sexual violence by age 18,,,,,8.3,Bihar
+32, Women who use any kind of tobacco (%),,,,2.8,5.0,Bihar
+33, Men who use any kind of tobacco (%),,,,50.1,48.8,Bihar
+34, Women who consume alcohol (%),,,,0.2,0.4,Bihar
+35, Men who consume alcohol (%),,,,28.9,15.5,Bihar

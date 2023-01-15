@@ -1,0 +1,37 @@
+,INDICATORS,NHS1,NHS2,NHS3,NHS4,NHS5,States
+0, Women age 20-24 years married before age 18 years (%),36.1,24.9,22.3,16.3,12.8,Tamil Nadu
+1, Men age 25-29 years married before age 21 years (%),,,8.4,9.0,4.5,Tamil Nadu
+2, Total fertility rate (children per woman),2.5,2.2,1.8,1.7,1.8,Tamil Nadu
+3, Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),,,7.7,5.0,6.3,Tamil Nadu
+4, Infant mortality rate (IMR),,,,20.0,18.6,Tamil Nadu
+5, Under five mortality rate (U5MR),,,,27.0,22.3,Tamil Nadu
+6, Any modern method (%),45.2,50.3,60.0,52.6,65.5,Tamil Nadu
+7, Female sterilization (%),37.6,45.2,55.0,49.4,57.8,Tamil Nadu
+8, Male sterilization (%),2.0,0.8,0.4,0.0,0.1,Tamil Nadu
+9, Total unmet need (%),14.6,13.0,8.5,10.1,7.5,Tamil Nadu
+10, Unmet need for spacing (%),7.8,6.6,4.0,4.8,3.0,Tamil Nadu
+11, Mothers who had at least 3 antenatal care visits for their last birth (%),88.4,90.9,96.5,81.1,89.9,Tamil Nadu
+12, Average outofpocket expenditure per delivery in a public health facility (Rs.),,,,2609.0,3316.0,Tamil Nadu
+13, Institutional births (%),64.3,79.3,290.4,98.9,99.6,Tamil Nadu
+14, Births delivered by caesarean section (%),,,,34.1,66.9,Tamil Nadu
+15,"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",65.1,88.8,80.9,69.7,89.2,Tamil Nadu
+16, 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,,,,86.1,89.8,Tamil Nadu
+17, Children under age 6 months exclusively breastfed (%),,,33.3,48.3,55.1,Tamil Nadu
+18, Children under 5 years who are stunted (heightforage),,35.2,31.1,27.1,25.0,Tamil Nadu
+19, Children under 5 years who are wasted (weightforheight),,22.5,22.9,19.7,14.6,Tamil Nadu
+20, Children under 3 years who are underweight (%),40.7,31.5,25.9,23.8,22.0,Tamil Nadu
+21, Women who are overweight or obese (%),,14.7,24.4,30.9,40.4,Tamil Nadu
+22, Men who are overweight or obese (%),,,,28.2,37.0,Tamil Nadu
+23, Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),,,,44.4,48.3,Tamil Nadu
+24, Currently married women who usually participate in three household decisions (%),,,48.8,84.0,92.8,Tamil Nadu
+25, Women who worked in the last 12 months and were paid in cash (%),,,,30.5,40.8,Tamil Nadu
+26, Women owning a house and/or land (alone or jointly with others) (%),,,,36.2,47.9,Tamil Nadu
+27, Women having a bank or savings account that they themselves use (%),,,,77.0,92.2,Tamil Nadu
+28, Women having a mobile phone that they themselves use (%),,,,62.0,74.6,Tamil Nadu
+29, Women age 15-24 years who use hygienic methods of protection during their menstrual period,,,,91.4,98.3,Tamil Nadu
+30, Evermarried women age 18-49 years who have ever experienced spousal violence,,,41.9,40.6,38.1,Tamil Nadu
+31, Young women age 18-29 years who experienced sexual violence by age 18,,,,,0.0,Tamil Nadu
+32, Women who use any kind of tobacco (%),,,,2.2,4.9,Tamil Nadu
+33, Men who use any kind of tobacco (%),,,,31.7,20.1,Tamil Nadu
+34, Women who consume alcohol (%),,,,0.4,0.3,Tamil Nadu
+35, Men who consume alcohol (%),,,,46.7,25.4,Tamil Nadu
