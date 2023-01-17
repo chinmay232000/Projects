@@ -12,7 +12,7 @@ INDICATORS,NHS1,NHS2,NHS3,States
  Unmet need for spacing (%),11.0,8.3,6.2,India
  Mothers who had at least 3 antenatal care visits for their last birth (%),43.9,44.2,50.7,India
  Average outofpocket expenditure per delivery in a public health facility (Rs.),,,,India
- Institutional births (%),26.1,33.6,240.8,India
+ Institutional births (%),26.1,33.6,40.8,India
  Births delivered by caesarean section (%),,,,India
 "Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",35.5,42.0,43.5,India
  'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,,,,India
@@ -22,14 +22,14 @@ INDICATORS,NHS1,NHS2,NHS3,States
  Children under 3 years who are underweight (%),51.5,42.7,40.4,India
  Women who are overweight or obese (%),,10.6,14.8,India
  Men who are overweight or obese (%),,,,India
- Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),,,,India
+ Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),,49.7,57.9,India
  Currently married women who usually participate in three household decisions (%),,,36.7,India
  Women who worked in the last 12 months and were paid in cash (%),,,,India
  Women owning a house and/or land (alone or jointly with others) (%),,,,India
  Women having a bank or savings account that they themselves use (%),,,,India
  Women having a mobile phone that they themselves use (%),,,,India
  Women age 15-24 years who use hygienic methods of protection during their menstrual period,,,,India
- Evermarried women age 18-49 years who have ever experienced spousal violence,,,,India
+ Evermarried women age 18-49 years who have ever experienced spousal violence,,,37.2,India
  Young women age 18-29 years who experienced sexual violence by age 18,,,,India
  Women who use any kind of tobacco (%),,,,India
  Men who use any kind of tobacco (%),,,,India

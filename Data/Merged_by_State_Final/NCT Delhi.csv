@@ -1,37 +1,37 @@
-,INDICATORS,NHS5,States
-0, Women age 20-24 years married before age 18 years (%),9.9,NCT Delhi
-1, Men age 25-29 years married before age 21 years (%),12.0,NCT Delhi
-2, Total fertility rate (children per woman),1.6,NCT Delhi
-3, Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),3.3,NCT Delhi
-4, Infant mortality rate (IMR),24.5,NCT Delhi
-5, Under five mortality rate (U5MR),30.6,NCT Delhi
-6, Any modern method (%),57.7,NCT Delhi
-7, Female sterilization (%),18.0,NCT Delhi
-8, Male sterilization (%),0.2,NCT Delhi
-9, Total unmet need (%),6.1,NCT Delhi
-10, Unmet need for spacing (%),2.0,NCT Delhi
-11, Mothers who had at least 3 antenatal care visits for their last birth (%),77.2,NCT Delhi
-12, Average outofpocket expenditure per delivery in a public health facility (Rs.),2548.0,NCT Delhi
-13, Institutional births (%),91.8,NCT Delhi
-14, Births delivered by caesarean section (%),62.4,NCT Delhi
-15,"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",76.0,NCT Delhi
-16, 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,88.7,NCT Delhi
-17, Children under age 6 months exclusively breastfed (%),64.3,NCT Delhi
-18, Children under 5 years who are stunted (heightforage),30.9,NCT Delhi
-19, Children under 5 years who are wasted (weightforheight),11.2,NCT Delhi
-20, Children under 3 years who are underweight (%),21.8,NCT Delhi
-21, Women who are overweight or obese (%),41.3,NCT Delhi
-22, Men who are overweight or obese (%),38.0,NCT Delhi
-23, Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),42.2,NCT Delhi
-24, Currently married women who usually participate in three household decisions (%),92.0,NCT Delhi
-25, Women who worked in the last 12 months and were paid in cash (%),24.9,NCT Delhi
-26, Women owning a house and/or land (alone or jointly with others) (%),22.7,NCT Delhi
-27, Women having a bank or savings account that they themselves use (%),72.5,NCT Delhi
-28, Women having a mobile phone that they themselves use (%),73.8,NCT Delhi
-29, Women age 15-24 years who use hygienic methods of protection during their menstrual period,96.9,NCT Delhi
-30, Evermarried women age 18-49 years who have ever experienced spousal violence,22.6,NCT Delhi
-31, Young women age 18-29 years who experienced sexual violence by age 18,1.6,NCT Delhi
-32, Women who use any kind of tobacco (%),2.2,NCT Delhi
-33, Men who use any kind of tobacco (%),26.3,NCT Delhi
-34, Women who consume alcohol (%),0.5,NCT Delhi
-35, Men who consume alcohol (%),21.6,NCT Delhi
+,INDICATORS,NHS1,NHS2,NHS3,NHS5,States
+0, Women age 20-24 years married before age 18 years (%),28.7,19.8,18.0,9.9,NCT Delhi
+1, Men age 25-29 years married before age 21 years (%),,,21.0,12.0,NCT Delhi
+2, Total fertility rate (children per woman),3.0,2.4,,1.6,NCT Delhi
+3, Women age 15-19 years who were already mothers or pregnant at the time of the survey (%),,,,3.3,NCT Delhi
+4, Infant mortality rate (IMR),,,,24.5,NCT Delhi
+5, Under five mortality rate (U5MR),,,,30.6,NCT Delhi
+6, Any modern method (%),54.6,56.3,,57.7,NCT Delhi
+7, Female sterilization (%),20.0,26.3,,18.0,NCT Delhi
+8, Male sterilization (%),3.2,2.3,,0.2,NCT Delhi
+9, Total unmet need (%),15.4,13.4,,6.1,NCT Delhi
+10, Unmet need for spacing (%),7.6,5.9,,2.0,NCT Delhi
+11, Mothers who had at least 3 antenatal care visits for their last birth (%),72.2,68.9,,77.2,NCT Delhi
+12, Average outofpocket expenditure per delivery in a public health facility (Rs.),,,,2548.0,NCT Delhi
+13, Institutional births (%),45.3,59.1,,91.8,NCT Delhi
+14, Births delivered by caesarean section (%),,,,62.4,NCT Delhi
+15,"Children age 12-23 months fully immunized (BCG, measles, and 3 doses each of polio and DPT) (%)",57.8,69.8,,76.0,NCT Delhi
+16, 'Children age 12-23 months who received most of their vaccinations in a public health facility (%)' ,,,,88.7,NCT Delhi
+17, Children under age 6 months exclusively breastfed (%),,,,64.3,NCT Delhi
+18, Children under 5 years who are stunted (heightforage),46.9,43.2,,30.9,NCT Delhi
+19, Children under 5 years who are wasted (weightforheight),15.9,15.7,,11.2,NCT Delhi
+20, Children under 3 years who are underweight (%),36.2,29.9,,21.8,NCT Delhi
+21, Women who are overweight or obese (%),,33.8,,41.3,NCT Delhi
+22, Men who are overweight or obese (%),,29.7,,38.0,NCT Delhi
+23, Pregnant women age 15-49 years who are anaemic (<11.0 g/dl) (%),,34.7,,42.2,NCT Delhi
+24, Currently married women who usually participate in three household decisions (%),,,,92.0,NCT Delhi
+25, Women who worked in the last 12 months and were paid in cash (%),,,,24.9,NCT Delhi
+26, Women owning a house and/or land (alone or jointly with others) (%),,,,22.7,NCT Delhi
+27, Women having a bank or savings account that they themselves use (%),,,,72.5,NCT Delhi
+28, Women having a mobile phone that they themselves use (%),,,,73.8,NCT Delhi
+29, Women age 15-24 years who use hygienic methods of protection during their menstrual period,,,,96.9,NCT Delhi
+30, Evermarried women age 18-49 years who have ever experienced spousal violence,,,,22.6,NCT Delhi
+31, Young women age 18-29 years who experienced sexual violence by age 18,,,,1.6,NCT Delhi
+32, Women who use any kind of tobacco (%),,,,2.2,NCT Delhi
+33, Men who use any kind of tobacco (%),,,,26.3,NCT Delhi
+34, Women who consume alcohol (%),,,,0.5,NCT Delhi
+35, Men who consume alcohol (%),,,,21.6,NCT Delhi
